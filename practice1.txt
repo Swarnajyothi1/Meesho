@@ -1,0 +1,2 @@
+Devops=Development + operations
+It means creating a code and deploying it to the end users.
